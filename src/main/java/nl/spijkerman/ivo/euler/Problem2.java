@@ -17,19 +17,18 @@ public class Problem2 implements Problem {
 
         int max = 4_000_000;
         int index = 2;
+        long sum = 0;
+        int value;
 
         // Fill with correct values
         do {
-            fibonacci.add(fibonacci.get(index - 1) + fibonacci.get(index - 2));
-        } while (fibonacci.get(index++) < max);
+            value = fibonacci.get(index - 1) + fibonacci.get(index++ - 2);
+            fibonacci.add(value);
+            if (value < max && value % 2 == 0)
+                sum += value;
+        } while (value < max);
 
-        // Remove last element which should not have been created
-        fibonacci.remove(--index);
-
-        return fibonacci.stream()
-                .filter(f -> f % 2 == 0)
-                .mapToInt(i -> i)
-                .sum() + "";
+        return sum + "";
     }
 
     @NotNull

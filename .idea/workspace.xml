@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a825b50-feb5-47af-9fc6-665979c7fe45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -54,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="450">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,8 +83,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/Problem2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" />
       </list>
     </option>
   </component>
@@ -258,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558613287970</updated>
-      <workItem from="1558613291318" duration="2333000" />
+      <workItem from="1558613291318" duration="2517000" />
     </task>
     <servers />
   </component>
@@ -271,7 +268,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2333000" />
+    <option name="totallyTimeSpent" value="2517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3840" y="27" width="1280" height="1413" extended-state="4" />
@@ -353,20 +350,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="450">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
