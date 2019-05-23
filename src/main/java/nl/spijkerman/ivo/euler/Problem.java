@@ -18,7 +18,7 @@ interface Problem {
     static void main(String[] args) {
 
         Instant begin = Instant.now();
-        Problem problem = new Problem4();
+        Problem problem = new Problem7();
         System.out.println("Running " + problem.getClass().getSimpleName());
         System.out.println("\n" + problem.description());
         System.out.println("\nSolution = " + problem.run());
