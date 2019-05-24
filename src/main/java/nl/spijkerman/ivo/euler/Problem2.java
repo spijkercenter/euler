@@ -9,7 +9,7 @@ public class Problem2 implements Problem {
 
     @NotNull
     @Override
-    public String run() {
+    public Long run() {
 
         List<Integer> fibonacci = new ArrayList<>();
         fibonacci.add(1);
@@ -28,7 +28,7 @@ public class Problem2 implements Problem {
                 sum += value;
         } while (value < max);
 
-        return sum + "";
+        return sum;
     }
 
     @NotNull

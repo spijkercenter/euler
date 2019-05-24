@@ -10,10 +10,10 @@ public class Problem6 implements Problem {
     @Override
     public @NotNull Object run() {
         Supplier<IntStream> range = () -> IntStream.rangeClosed(1, 100);
-        long sumOfSquares = range.get()
+        int sumOfSquares = range.get()
                 .map(i -> i * i)
                 .sum();
-        long squareOfSum = (long) Math.pow(range.get().sum(), 2);
+        int squareOfSum = (int) Math.pow(range.get().sum(), 2);
         return squareOfSum - sumOfSquares;
     }
 

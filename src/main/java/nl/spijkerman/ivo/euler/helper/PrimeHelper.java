@@ -1,34 +1,38 @@
 package nl.spijkerman.ivo.euler.helper;
 
-import java.util.Arrays;
+import java.math.BigInteger;
 
 public class PrimeHelper {
+    private static boolean[] PRIMES = {false, false};
+    private static final double GROW_FACTOR = 2.4;
 
-    public static final PrimeHelper INSTANCE = new PrimeHelper();
-
-    private PrimeHelper() {
-
+    public static boolean isPrime(long n) {
+        if (n <= Integer.MAX_VALUE)
+            return isPrime((int) n);
+        return calcPrime(n);
     }
 
-    private boolean[] primes = {false, false};
+    public synchronized static boolean isPrime(int n) {
+        if (n >= PRIMES.length)
+            preCalc((int) (n * GROW_FACTOR));
+        return PRIMES[n];
+    }
 
-    public synchronized boolean isPrime(int n) {
-        if (n >= primes.length) {
-            final int newLength = Math.max(n, primes.length) * 2;
-            primes = new boolean[newLength];
-            Arrays.fill(primes, true);
-            primes[0] = primes[1] = false;
+    private static boolean calcPrime(long n) {
+        return BigInteger.valueOf(n).isProbablePrime(100);
+    }
 
-            for (int i = 2; i < newLength; ++i) {
-                if (primes[i]) {
-                    for (int j = 2; i * j < newLength; j++) {
-                        primes[i * j] = false;
-                    }
-                }
-            }
+
+    private synchronized static void preCalc(int n) {
+        if (n < PRIMES.length)
+            return;
+
+        System.out.printf("Calculating primes. oldCount = %d, newCount = %d%n", PRIMES.length, n);
+        boolean[] oldPrimes = PRIMES;
+        PRIMES = new boolean[n];
+        System.arraycopy(oldPrimes, 0, PRIMES, 0, oldPrimes.length);
+        for (int i = oldPrimes.length; i < n; ++i) {
+            PRIMES[i] = calcPrime(i);
         }
-        return primes[n];
     }
-
-
 }

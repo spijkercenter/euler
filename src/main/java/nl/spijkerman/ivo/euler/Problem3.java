@@ -7,17 +7,16 @@ import java.util.stream.IntStream;
 
 public class Problem3 implements Problem {
     @Override
-    public @NotNull String run() {
-        PrimeHelper ph = PrimeHelper.INSTANCE;
+    public @NotNull Integer run() {
 
         long value = 600851475143L;
         int sqrt = (int) Math.sqrt(value);
         return IntStream.rangeClosed(2, sqrt)
                 .parallel()
-                .filter(ph::isPrime)
+                .filter(PrimeHelper::isPrime)
                 .filter(i -> value % i == 0)
                 .max()
-                .orElse(-1) + "";
+                .orElse(-1);
     }
 
     @Override

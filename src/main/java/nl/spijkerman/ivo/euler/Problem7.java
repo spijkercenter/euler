@@ -7,14 +7,16 @@ public class Problem7 implements Problem {
 
     @Override
     public @NotNull Object run() {
-        int primes = 2;
-        PrimeHelper ph = PrimeHelper.INSTANCE;
+        int primes = 1;
         int i = 3;
-        for (; primes < 10001; i += 2)
-            if (ph.isPrime(i))
+        int lastPrime = 2;
+        for (; primes < 10_001; i += 2)
+            if (PrimeHelper.isPrime(i)) {
+                lastPrime = i;
                 primes++;
+            }
 
-        return i;
+        return lastPrime;
     }
 
     @Override

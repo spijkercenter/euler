@@ -13,12 +13,12 @@ import java.util.stream.IntStream;
  */
 public class Problem1 implements Problem {
 
-    @NotNull
     @Override
-    public String run() {
+    @NotNull
+    public Integer run() {
         return IntStream.range(3, 1000)
                 .filter(i -> i % 3 == 0 || i % 5 == 0)
-                .sum() + "";
+                .sum();
     }
 
 
