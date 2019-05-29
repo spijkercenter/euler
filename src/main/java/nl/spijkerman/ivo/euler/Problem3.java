@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 
 public class Problem3 implements Problem {
     @Override
-    public @NotNull Integer run() {
+    public @NotNull Object run() {
 
         long value = 600851475143L;
         int sqrt = (int) Math.sqrt(value);

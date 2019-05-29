@@ -9,37 +9,37 @@ class ProblemTests {
 
     @Test
     void Problem1() {
-        assertEquals(233168, (int) new Problem1().run());
+        assertEquals(233168, new Problem1().run());
     }
 
     @Test
     void Problem2() {
-        assertEquals(4613732L, (long) new Problem2().run());
+        assertEquals(4613732L, new Problem2().run());
     }
 
     @Test
     void Problem3() {
-        assertEquals(6857, (int) new Problem3().run());
+        assertEquals(6857, new Problem3().run());
     }
 
     @Test
     void Problem4() {
-        assertEquals(906609, (int) new Problem4().run());
+        assertEquals(906609, new Problem4().run());
     }
 
     @Test
     void Problem5() {
-        assertEquals(232792560, (int) new Problem5().run());
+        assertEquals(232792560, new Problem5().run());
     }
 
     @Test
     void Problem6() {
-        assertEquals(25164150, (int) new Problem6().run());
+        assertEquals(25164150, new Problem6().run());
     }
 
     @Test
     void Problem7() {
-        assertEquals(104743, (int) new Problem7().run());
+        assertEquals(104743, new Problem7().run());
     }
 
     @Test
@@ -49,22 +49,22 @@ class ProblemTests {
 
     @Test
     void Problem9() {
-        assertEquals(31875000, (int) new Problem9().run());
+        assertEquals(31875000, new Problem9().run());
     }
 
     @Test
     void Problem10() {
-        assertEquals(142913828922L, (long) new Problem10().run());
+        assertEquals(142913828922L, new Problem10().run());
     }
 
     @Test
     void Problem11() {
-        assertEquals(70600674, (int) new Problem11().run());
+        assertEquals(70600674, new Problem11().run());
     }
 
     @Test
     void Problem12() {
-        assertEquals(76576500, (int) new Problem12().run());
+        assertEquals(76576500, new Problem12().run());
     }
 
     @Test
@@ -75,5 +75,35 @@ class ProblemTests {
     @Test
     void Problem14() {
         assertEquals(837799L, new Problem14().run());
+    }
+
+    @Test
+    void Problem15() {
+        assertEquals(137846528820L, new Problem15().run());
+    }
+
+    @Test
+    void Problem16() {
+        assertEquals(1366, new Problem16().run());
+    }
+
+    @Test
+    void Problem17() {
+        fail();
+    }
+
+    @Test
+    void Problem18() {
+        assertEquals(1074L, new Problem18().run());
+    }
+
+    @Test
+    void Problem38() {
+        assertEquals(932718654, new Problem38().run());
+    }
+
+    @Test
+    void Problem67() {
+        assertEquals(7273L, new Problem67().run());
     }
 }

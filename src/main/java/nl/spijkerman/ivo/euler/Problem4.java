@@ -13,7 +13,7 @@ public class Problem4 implements Problem {
     }
 
     @Override
-    public @NotNull Integer run() {
+    public @NotNull Object run() {
 
         return IntStream.rangeClosed(111, 999)
                 .flatMap(lhs -> IntStream.rangeClosed(111, 999)

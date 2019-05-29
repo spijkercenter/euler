@@ -9,7 +9,7 @@ public class Problem2 implements Problem {
 
     @NotNull
     @Override
-    public Long run() {
+    public Object run() {
 
         List<Integer> fibonacci = new ArrayList<>();
         fibonacci.add(1);

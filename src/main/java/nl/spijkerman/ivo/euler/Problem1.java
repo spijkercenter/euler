@@ -15,7 +15,7 @@ public class Problem1 implements Problem {
 
     @Override
     @NotNull
-    public Integer run() {
+    public Object run() {
         return IntStream.range(3, 1000)
                 .filter(i -> i % 3 == 0 || i % 5 == 0)
                 .sum();

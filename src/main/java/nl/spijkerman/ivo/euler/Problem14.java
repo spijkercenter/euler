@@ -3,7 +3,6 @@ package nl.spijkerman.ivo.euler;
 import nl.spijkerman.ivo.euler.helper.KV;
 import org.jetbrains.annotations.NotNull;
 
-import java.util.AbstractMap.SimpleImmutableEntry;
 import java.util.Comparator;
 import java.util.Map.Entry;
 import java.util.stream.LongStream;

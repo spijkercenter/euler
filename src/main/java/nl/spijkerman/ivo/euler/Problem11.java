@@ -32,7 +32,7 @@ public class Problem11 implements Problem {
     }
 
     @Override
-    public @NotNull Integer run() {
+    public @NotNull Object run() {
         int max = 0;
         for (int x = 0; x < 17; ++x) {
             for (int y = 0; y < 17; ++y) {

@@ -5,11 +5,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/PrimeHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/PrimeHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,30 +25,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/PrimeHelper.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            <state relative-caret-position="702">
+              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1850#1851#0" expanded="true" />
+                <element signature="e#1880#1881#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem67.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/TriangleProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
-                <element signature="e#1335#1336#0" expanded="true" />
-                <element signature="e#1390#1391#0" expanded="true" />
-                <element signature="e#1420#1421#0" expanded="true" />
-                <element signature="e#1489#1490#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem38.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,49 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/KV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-              <folding>
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,27 +123,36 @@
         <option value="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/Problem2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/PrimeHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/primes" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem5.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem8.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem9.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/Problem10.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem6.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem10.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/TernaryOperator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/PrimeHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/DivisorHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem13.java" />
-        <option value="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/KV.java" />
         <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem15.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/TriangleHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/TriangleProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/TriangleProblem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem67.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem38.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java" />
       </list>
     </option>
   </component>
@@ -158,10 +163,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="3840" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2560" />
     <option name="y" value="27" />
-    <option name="width" value="1280" />
+    <option name="width" value="2560" />
     <option name="height" value="1413" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -172,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -241,6 +245,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,22 +284,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProblemTests.Problem14">
+  <component name="RunManager" selected="JUnit.ProblemTests">
     <configuration name="Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.spijkerman.ivo.euler.Problem" />
-      <module name="euler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nl.spijkerman.ivo.euler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nl.spijkerman.ivo.euler.Problem14" />
       <module name="euler" />
       <extension name="coverage">
         <pattern>
@@ -321,7 +313,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemTests.Problem12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTests.Problem16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="euler" />
       <extension name="coverage">
         <pattern>
@@ -331,13 +323,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="nl.spijkerman.ivo.euler" />
       <option name="MAIN_CLASS_NAME" value="nl.spijkerman.ivo.euler.ProblemTests" />
-      <option name="METHOD_NAME" value="Problem12" />
+      <option name="METHOD_NAME" value="Problem16" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemTests.Problem14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTests.Problem18" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="euler" />
       <extension name="coverage">
         <pattern>
@@ -347,7 +339,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="nl.spijkerman.ivo.euler" />
       <option name="MAIN_CLASS_NAME" value="nl.spijkerman.ivo.euler.ProblemTests" />
-      <option name="METHOD_NAME" value="Problem14" />
+      <option name="METHOD_NAME" value="Problem18" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTests.Problem67" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.spijkerman.ivo.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.spijkerman.ivo.euler" />
+      <option name="MAIN_CLASS_NAME" value="nl.spijkerman.ivo.euler.ProblemTests" />
+      <option name="METHOD_NAME" value="Problem67" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -355,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProblemTests.Problem14" />
-        <item itemvalue="Application.Problem14" />
         <item itemvalue="JUnit.ProblemTests" />
+        <item itemvalue="JUnit.ProblemTests.Problem67" />
         <item itemvalue="Application.Problem" />
-        <item itemvalue="JUnit.ProblemTests.Problem12" />
+        <item itemvalue="JUnit.ProblemTests.Problem18" />
+        <item itemvalue="JUnit.ProblemTests.Problem16" />
       </list>
     </recent_temporary>
   </component>
@@ -375,50 +383,53 @@
       <updated>1558613287970</updated>
       <workItem from="1558613291318" duration="7292000" />
       <workItem from="1558679161669" duration="8069000" />
-      <workItem from="1558687695897" duration="7181000" />
+      <workItem from="1558687695897" duration="10883000" />
+      <workItem from="1558700510561" duration="3159000" />
+      <workItem from="1559031914946" duration="1196000" />
+      <workItem from="1559118395725" duration="4427000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 04m 27s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 04m 14s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 08m 15s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 08m 16s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 09m 27s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 09m 43s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 09m 42s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 10m 15s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 10m 20s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 10m 22s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 11m 27s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem18 - 2019.05.24 at 14h 13m 42s.xml">
+      <configuration name="ProblemTests.Problem18" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 12m 06s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem67 - 2019.05.24 at 14h 26m 56s.xml">
+      <configuration name="ProblemTests.Problem67" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 12m 20s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests - 2019.05.24 at 14h 28m 15s.xml">
+      <configuration name="ProblemTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 14m 24s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests - 2019.05.24 at 14h 29m 03s.xml">
+      <configuration name="ProblemTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProblemTests_Problem14 - 2019.05.24 at 13h 14m 32s.xml">
-      <configuration name="ProblemTests.Problem14" configurationId="JUnit" />
+    <history-entry file="ProblemTests_Problem67 - 2019.05.29 at 13h 59m 49s.xml">
+      <configuration name="ProblemTests.Problem67" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22542000" />
+    <option name="totallyTimeSpent" value="35026000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3840" y="27" width="1280" height="1413" extended-state="4" />
+    <frame x="2560" y="27" width="2560" height="1413" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25769854" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.096658714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +446,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32967892" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32498044" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -469,16 +480,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/primes" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -491,16 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -545,56 +536,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="e#2347#2348#0" expanded="true" />
-            <element signature="e#2377#2378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/DivisorHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/Helper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/helper/DivisorHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -637,40 +580,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1390#1391#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/TriangleProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem14.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nl/spijkerman/ivo/euler/Problem38.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/spijkerman/ivo/euler/ProblemTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1880#1881#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,7 +6,7 @@ import org.jetbrains.annotations.NotNull;
 import java.time.Duration;
 import java.time.Instant;
 
-interface Problem {
+public interface Problem {
 
     @NotNull
     Object run();
@@ -18,7 +18,7 @@ interface Problem {
     static void main(String[] args) {
 
         Instant begin = Instant.now();
-        Problem problem = new Problem13();
+        Problem problem = new Problem38();
         System.out.println("Running " + problem.getClass().getSimpleName());
         System.out.println("\n" + problem.description());
         System.out.println("\nSolution = " + problem.run());
